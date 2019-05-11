@@ -1,0 +1,12 @@
+DNA
+ACGT
+RNA
+AUGC
+Protein
+KLYV
+DNA
+GATC
+RNA
+CUGA
+Protein
+PRSL
